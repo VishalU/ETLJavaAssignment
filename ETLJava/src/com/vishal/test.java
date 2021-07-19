@@ -6,4 +6,8 @@ class HelloWorld
     {
         System.out.println("Hello, World");
     }
+    for(i=1;i<50;i++){
+        
+        System.out.println("Hello, World");
+    }
 }
