@@ -11,7 +11,7 @@ public class Test {
 		list.add("2");
 		list.add("8");
 		list.add("9");
-		
+		system.out.println("Test");
 		System.out.println("test" + list.get(0)) ;
 	}
 
